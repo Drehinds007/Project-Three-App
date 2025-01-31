@@ -1,5 +1,31 @@
 body {
+  font-family: Arial, sans-serif;
   margin: 0;
   box-sizing: border-box;
-  background-color: aquamarine;
+  background-color: #da2020;
+}
+
+header {
+  background-color: #282c34;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.main-nav {
+  background: #f3c623;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
 }
