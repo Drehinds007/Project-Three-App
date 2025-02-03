@@ -1,4 +1,4 @@
-const FigureCard = () => {
+const FigureCard = ({ figure }) => {
   return (
     <div className="figure-card">
       <h2>{figure.name}</h2>
