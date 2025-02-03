@@ -1,5 +1,5 @@
 const FiguresContainer = () => {
-  return <div></div>
+  return <div className="figures-container"></div>
 }
 
 export default FiguresContainer

@@ -1,4 +1,4 @@
 const FigureCard = () => {
-  return <div></div>
+  return <div className="figure-card"></div>
 }
 export default FigureCard
