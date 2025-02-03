@@ -1,9 +1,9 @@
 const FigureCard = ({ figure }) => {
   return (
     <div className="figure-card">
-      <h2>{figure.name}</h2>
+      <h3>{figure.name}</h3>
       <p>
-        <strong>DOB:</strong> {figure.dob}
+        <strong>Born:</strong> {figure.dob}
       </p>
       <p>
         <strong>Contribution:</strong> {figure.contribution}
