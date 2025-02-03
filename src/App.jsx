@@ -1,40 +1,25 @@
 import './App.css'
 import Header from './components/Header'
 import Navigation from './components/Navigation'
-import FigureCard from './components/FigureCard'
 import FiguresContainer from './components/FiguresContainer'
 
 const App = () => {
   const figures = [
     {
-      name: 'Martin Luther King Jr.',
-      dob: '1929-01-15',
-      contribution: 'Civil Rights Leader',
-      category: 'Social Justice'
+      name: 'Muhammad Ali',
+      birthDate: '1942-01-17',
+      contribution: 'Boxing legend and activist',
+      category: 'Sports',
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Muhammad_Ali%2C_gtfy.00140_%28cropped%29.jpg/640px-Muhammad_Ali%2C_gtfy.00140_%28cropped%29.jpg'
     },
     {
-      name: 'Madam C.J. Walker',
-      dob: '1867-12-23',
-      contribution: 'First Female Self-Made Millionaire',
-      category: 'Business'
-    },
-    {
-      name: 'Barack Obama',
-      dob: '1961-08-04',
-      contribution: '44th President of the U.S.',
-      category: 'Politics'
-    },
-    {
-      name: 'Maya Angelou',
-      dob: '1928-04-04',
-      contribution: 'Poet and Civil Rights Activist',
-      category: 'Literature'
-    },
-    {
-      name: 'Rosa Parks',
-      dob: '1913-02-04',
-      contribution: 'Civil Rights Leader',
-      category: 'Social Justice'
+      name: 'Nina Simone',
+      birthDate: '1933-02-21',
+      contribution: 'Jazz and civil rights activist',
+      category: 'Music',
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Nina_Simone_1965.jpg/640px-Nina_Simone_1965.jpg'
     }
   ]
 

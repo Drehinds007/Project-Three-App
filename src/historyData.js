@@ -13,7 +13,7 @@ const historyData = [
   {
     name: 'Nina Simone',
     image:
-      'https://commons.wikimedia.org/wiki/File:Nina_Simone_1965_-_restoration1.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Nina_Simone_1965.jpg/640px-Nina_Simone_1965.jpg',
     birthDate: '1933-02-21',
     category: 'Music',
     contribution:
