@@ -36,7 +36,16 @@ const App = () => {
       contribution: 'Poet, memoirist, and civil rights activist.',
       category: 'Literature',
       image:
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Portrait_photograph_of_Maya_Angelou_by_Jimmy_Ellis%2C_April_25%2C_1978.webp/640px-Portrait_photograph_of_Maya_Angelou_by_Jimmy_Ellis%2C_April_25%2C_1978.webp.png'
+        '...Portrait_photograph_of_Maya_Angelou_by_Jimmy_Ellis%2C_April_25%2C_1978.webp'
+    },
+    {
+      name: 'Malcolm X',
+      birthDate: '1925-05-19',
+      contribution:
+        'Prominent figure in the Nation of Islam and advocate for Black empowerment.',
+      category: 'Civil Rights',
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Malcolm_X_in_1964.jpg/640px-Malcolm_X_in_1964.jpg'
     }
   ]
 
