@@ -67,7 +67,7 @@ const historyData = [
   {
     name: 'Maya Angelou',
     image:
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Portrait_photograph_of_Maya_Angelou_by_Jimmy_Ellis%2C_April_25%2C_1978.webp/640px-Portrait_photograph_of_Maya_Angelou_by_Jimmy_Ellis%2C_April_25%2C_1978.webp.png',
+      'https://www.usatoday.com/gcdn/-mm-/a92feed2559d686f4c525856f3da8abe08587220/c=82-0-1370-1713/local/-/media/USATODAY/GenericImages/2014/05/28//1401284180000-XXX-ANGELOU-MOM-BOOKS-2370.jpg',
     birthDate: '1928-04-04',
     category: 'Literature',
     contribution: 'Poet, memoirist, and civil rights activist.',

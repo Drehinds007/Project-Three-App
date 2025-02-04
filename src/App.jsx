@@ -36,7 +36,7 @@ const App = () => {
       contribution: 'Poet, memoirist, and civil rights activist.',
       category: 'Literature',
       image:
-        '...Portrait_photograph_of_Maya_Angelou_by_Jimmy_Ellis%2C_April_25%2C_1978.webp'
+        'https://www.usatoday.com/gcdn/-mm-/a92feed2559d686f4c525856f3da8abe08587220/c=82-0-1370-1713/local/-/media/USATODAY/GenericImages/2014/05/28//1401284180000-XXX-ANGELOU-MOM-BOOKS-2370.jpg'
     },
     {
       name: 'Malcolm X',
@@ -46,6 +46,14 @@ const App = () => {
       category: 'Civil Rights',
       image:
         'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Malcolm_X_in_1964.jpg/640px-Malcolm_X_in_1964.jpg'
+    },
+    {
+      name: 'Serena Williams',
+      birthDate: '1981-09-26',
+      contribution: 'One of the greatest tennis players of all time.',
+      category: 'Sports',
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Serena_Williams_US_Open_2013.jpg/640px-Serena_Williams_US_Open_2013.jpg'
     }
   ]
 
