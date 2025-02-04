@@ -54,6 +54,32 @@ const App = () => {
       category: 'Sports',
       image:
         'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Serena_Williams_US_Open_2013.jpg/640px-Serena_Williams_US_Open_2013.jpg'
+    },
+    {
+      name: 'Barack Obama',
+      birthDate: '1961-08-04',
+      contribution:
+        '44th President of the United States and the first African American to hold the office.',
+      category: 'Politics',
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/640px-President_Barack_Obama.jpg'
+    },
+    {
+      name: 'W.E.B. Du Bois',
+      birthDate: '1868-02-23',
+      contribution: 'Civil rights leader and co-founder of the NAACP.',
+      category: 'Activism',
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%28cropped%29.jpg/640px-W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%28cropped%29.jpg'
+    },
+    {
+      name: 'Shirley Chisholm',
+      birthDate: '1924-11-30',
+      contribution:
+        'First Black woman elected to the U.S. Congress and first to run for president.',
+      category: 'Politics',
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Shirley_Chisholm.jpg/640px-Shirley_Chisholm.jpg'
     }
   ]
 

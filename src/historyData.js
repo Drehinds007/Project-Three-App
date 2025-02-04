@@ -267,6 +267,18 @@ const historyData = [
       'Media mogul, philanthropist, and advocate for social change.',
     legacy: 'Influenced the media landscape and philanthropy',
     notableWork: 'The Oprah Winfrey Show'
+  },
+  {
+    name: 'Barack Obama',
+    image:
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/640px-President_Barack_Obama.jpg',
+    birthDate: '1961-08-04',
+    category: 'Politics',
+    contribution:
+      '44th President of the United States and the first African American to hold the office.',
+    legacy:
+      'Expanded healthcare access, advocated for social justice, and promoted global diplomacy.',
+    notableWork: 'Affordable Care Act, DACA, Paris Climate Agreement'
   }
 ]
 
