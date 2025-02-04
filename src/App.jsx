@@ -20,6 +20,15 @@ const App = () => {
       category: 'Music',
       image:
         'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Nina_Simone_1965.jpg/640px-Nina_Simone_1965.jpg'
+    },
+    {
+      name: 'Michael Jackson',
+      birthDate: '1958-08-29',
+      contribution:
+        'The King of Pop, known for breaking racial barriers in the music industry.',
+      category: 'Music',
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Michael_Jackson_1988.jpg/640px-Michael_Jackson_1988.jpg'
     }
   ]
 
