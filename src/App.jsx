@@ -29,6 +29,14 @@ const App = () => {
       category: 'Music',
       image:
         'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Michael_Jackson_1988.jpg/640px-Michael_Jackson_1988.jpg'
+    },
+    {
+      name: 'Maya Angelou',
+      birthDate: '1928-04-04',
+      contribution: 'Poet, memoirist, and civil rights activist.',
+      category: 'Literature',
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Portrait_photograph_of_Maya_Angelou_by_Jimmy_Ellis%2C_April_25%2C_1978.webp/640px-Portrait_photograph_of_Maya_Angelou_by_Jimmy_Ellis%2C_April_25%2C_1978.webp.png'
     }
   ]
 
