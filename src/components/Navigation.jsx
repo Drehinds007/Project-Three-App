@@ -18,6 +18,14 @@ const Navigation = () => {
             Events
           </a>
         </li>
+        <li className="nav-juneteenth">
+          <a href="https://nmaahc.si.edu/explore/stories/historical-legacy-juneteenth">
+            Juneteenth
+          </a>
+        </li>
+        <li className="nav-bhm">
+          <a href="https://blackhistorymonth.gov/">Black History Month</a>
+        </li>
       </ul>
     </nav>
   )

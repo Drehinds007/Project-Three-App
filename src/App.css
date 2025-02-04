@@ -3,7 +3,7 @@ body {
   margin: 0;
   box-sizing: border-box;
   background-image: url('https://s36500.pcdn.co/wp-content/uploads/2020/12/Vertical_pan_african_flag.png');
-  background-image: cover;
+  background-size: cover;
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -34,16 +34,36 @@ header {
   padding-left: 0;
   display: flex;
   gap: 15px;
+  align-items: center;
 }
 
-.main-nav a {
+.main-nav li a {
   color: #000000;
   text-decoration: none;
   font-weight: bold;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: background 0.3s ease, color 0.3s ease;
 }
 
 .main-nav a:hover {
   color: #da2020;
+}
+
+.nav-divider {
+  margin-left: 30px;
+}
+
+.nav-juneteenth a,
+.nav-bhm a {
+  background-color: #d32f2f;
+  color: white;
+}
+
+.nav-juneteenth a:hover,
+.nav-bhm a:hover {
+  background-color: #5b913b;
+  color: white;
 }
 
 .figures-container {
@@ -68,10 +88,6 @@ header {
   height: 300px;
   object-fit: contain;
   border-radius: 8px;
-}
-
-.figure img {
-  width: 100%;
   background-color: #ffffff;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
