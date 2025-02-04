@@ -3,6 +3,10 @@ body {
   margin: 0;
   box-sizing: border-box;
   background-image: url('https://s36500.pcdn.co/wp-content/uploads/2020/12/Vertical_pan_african_flag.png');
+  background-image: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 header {
@@ -17,7 +21,7 @@ header {
 }
 
 .main-nav {
-  background: #f3c623;
+  background: #f4f3f3;
   width: 100%;
   display: flex;
   justify-content: space-evenly;
@@ -33,7 +37,7 @@ header {
 }
 
 .main-nav a {
-  color: #06662b;
+  color: #000000;
   text-decoration: none;
   font-weight: bold;
 }
